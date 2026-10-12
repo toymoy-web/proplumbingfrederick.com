@@ -1,2 +1,15 @@
-# Intentionally empty. Cloudflare Pages resolves clean URLs and slug/index.html natively.
-# Add rules here only for a real legacy-path or cross-domain redirect.
+# 301s for blog slugs renamed to include the city.
+/blog/galvanized-pipes-failing-signs/ /blog/galvanized-pipes-failing-signs-frederick-md/ 301
+/blog/galvanized-pipes-failing-signs /blog/galvanized-pipes-failing-signs-frederick-md/ 301
+/blog/high-water-bill-hidden-leak-meter-test/ /blog/high-water-bill-hidden-leak-frederick-md/ 301
+/blog/high-water-bill-hidden-leak-meter-test /blog/high-water-bill-hidden-leak-frederick-md/ 301
+/blog/find-main-water-shutoff-older-home/ /blog/find-main-water-shutoff-older-frederick-home/ 301
+/blog/find-main-water-shutoff-older-home /blog/find-main-water-shutoff-older-frederick-home/ 301
+/blog/tankless-water-heater-descale-hard-water/ /blog/tankless-water-heater-descale-frederick-md/ 301
+/blog/tankless-water-heater-descale-hard-water /blog/tankless-water-heater-descale-frederick-md/ 301
+/blog/sewage-ejector-pump-basement-bathroom/ /blog/sewage-ejector-pump-basement-frederick-md/ 301
+/blog/sewage-ejector-pump-basement-bathroom /blog/sewage-ejector-pump-basement-frederick-md/ 301
+/blog/heat-pump-water-heater-maryland-rebates/ /blog/heat-pump-water-heater-frederick-md-rebates/ 301
+/blog/heat-pump-water-heater-maryland-rebates /blog/heat-pump-water-heater-frederick-md-rebates/ 301
+/blog/sewer-backup-document-landlord-insurance/ /blog/sewer-backup-document-frederick-md/ 301
+/blog/sewer-backup-document-landlord-insurance /blog/sewer-backup-document-frederick-md/ 301
